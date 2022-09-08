@@ -1,2 +1,5 @@
-#entorno virtual creado durante el live
+# entorno virtual creado durante el live
 v_demo
+
+# cache de python
+__pycache__
